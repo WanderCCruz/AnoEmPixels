@@ -12,7 +12,7 @@ Cria um tabela exibindo todos os dias do ano e qual o sentimento de cada dia dem
 </h3>
 # :hammer: Funcionalidades do projeto<br/>
 - Funcionalidade 1: Exibir uma tabela com todos os dias do ano<br/>
-- Funcionalidade 2: Colorir cada dis com uma cor demonstrando o sentimento de casa dia
+- Funcionalidade 2: Colorir cada dia com uma cor demonstrando o sentimento de casa dia
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/WanderCCruz/AnoEmPixels).
